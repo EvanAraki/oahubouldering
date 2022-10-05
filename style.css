@@ -1,0 +1,21 @@
+body {
+  background: black;
+}
+
+nav {
+  position: fixed;
+}
+
+.nav-item {
+  float: right;
+  text-decoration: none;
+}
+
+.content {
+  position: relative;
+  display: inline;
+}
+
+.overlay-image {
+
+}
